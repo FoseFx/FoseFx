@@ -10,3 +10,4 @@
 
 🤵 https://www.linkedin.com/in/max-b-253824187/
 
+<a href="https://www.twitter.com/FoseFx"><img src="twitter.svg?raw=true" alt="Twitter" width="40" /></a>
