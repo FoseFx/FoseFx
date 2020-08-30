@@ -12,3 +12,4 @@
 
 <a href="https://www.twitter.com/FoseFx"><img src="twitter.svg?raw=true" alt="Twitter" width="40" /></a>
 <a href="https://www.linkedin.com/in/max-b-253824187/"><img src="linkedin.svg?raw=true" alt="LinkedIn" width="40" /></a>
+<a href="https://gitlab.com/fosefx/"><img src="gitlab.svg?raw=true" alt="Gitlab" width="40" /></a>
