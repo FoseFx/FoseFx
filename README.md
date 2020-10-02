@@ -1,5 +1,5 @@
 # FoseFx
-![Github stats](https://github-readme-stats.vercel.app/api?username=FoseFx&count_private=true&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=fosefx&count_private=true&bg_color=DEG,e96443,904e95&title_color=fff&text_color=fff&icon_color=eee&include_all_commits=true&show_icons=true)
 ## You can find me here
 
 <a href="https://www.fosefx.com/" target="__blank"><img src="https://github.com/FoseFx/FoseFx/blob/master/hp.png?raw=true" alt="Homepage" width="40" /></a>
