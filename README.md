@@ -20,6 +20,7 @@
  * [probot/create-probot-app](https://github.com/probot/create-probot-app/commits?author=FoseFx)
  * [probot/hello-world](https://github.com/probot/hello-world/commits?author=FoseFx)
  * [probot/probot](https://github.com/probot/probot/commits?author=FoseFx)
+ * [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy/commits?author=FoseFx)
  * [shalvah/twittersignin](https://github.com/shalvah/twittersignin/commits?author=FoseFx)
  * [steebchen/flutter](https://github.com/steebchen/flutter/commits?author=FoseFx)
  * [tmijs/tmi.js](https://github.com/tmijs/tmi.js/commits?author=FoseFx)
@@ -30,7 +31,6 @@
 
 ### Pull Requests:
  * [cryptic-game/cryptic-user](https://github.com/cryptic-game/cryptic-user/pulls?q=author%3AFoseFx)
- * [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy/pulls?q=author%3AFoseFx)
  * [shaftoe/probot](https://github.com/shaftoe/probot/pulls?q=author%3AFoseFx)
  * [twilio-labs/open-pixel-art](https://github.com/twilio-labs/open-pixel-art/pulls?q=author%3AFoseFx)
 
