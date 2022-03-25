@@ -20,6 +20,7 @@
  * [probot/create-probot-app](https://github.com/probot/create-probot-app/commits?author=FoseFx)
  * [probot/hello-world](https://github.com/probot/hello-world/commits?author=FoseFx)
  * [probot/probot](https://github.com/probot/probot/commits?author=FoseFx)
+ * [rust-lang/rust](https://github.com/rust-lang/rust/commits?author=FoseFx)
  * [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy/commits?author=FoseFx)
  * [shalvah/twittersignin](https://github.com/shalvah/twittersignin/commits?author=FoseFx)
  * [steebchen/flutter](https://github.com/steebchen/flutter/commits?author=FoseFx)
@@ -40,7 +41,6 @@
  * [helm/helm](https://github.com/helm/helm/issues?q=is%3Aissue+author%3AFoseFx)
  * [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool/issues?q=is%3Aissue+author%3AFoseFx)
  * [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill/issues?q=is%3Aissue+author%3AFoseFx)
- * [rust-lang/rust](https://github.com/rust-lang/rust/issues?q=is%3Aissue+author%3AFoseFx)
  * [tensorflow/tfjs](https://github.com/tensorflow/tfjs/issues?q=is%3Aissue+author%3AFoseFx)
 
 ### Other:
