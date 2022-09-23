@@ -10,6 +10,7 @@
 
 ### Commits:
  * [AndreAle94/moneywallet](https://github.com/AndreAle94/moneywallet/commits?author=FoseFx)
+ * [Just-another-Muensterhack/helpwave-frontend](https://github.com/Just-another-Muensterhack/helpwave-frontend/commits?author=FoseFx)
  * [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock/commits?author=FoseFx)
  * [ajayyy/SponsorBlockServer](https://github.com/ajayyy/SponsorBlockServer/commits?author=FoseFx)
  * [bttv-android/bttv](https://github.com/bttv-android/bttv/commits?author=FoseFx)
