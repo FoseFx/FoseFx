@@ -19,6 +19,7 @@
  * [bttv-android/ubi](https://github.com/bttv-android/ubi/commits?author=FoseFx)
  * [bttv-android/version-watchdog](https://github.com/bttv-android/version-watchdog/commits?author=FoseFx)
  * [cryptic-game/frontend](https://github.com/cryptic-game/frontend/commits?author=FoseFx)
+ * [helpwave/rest-api](https://github.com/helpwave/rest-api/commits?author=FoseFx)
  * [probot/create-probot-app](https://github.com/probot/create-probot-app/commits?author=FoseFx)
  * [probot/hello-world](https://github.com/probot/hello-world/commits?author=FoseFx)
  * [probot/probot](https://github.com/probot/probot/commits?author=FoseFx)
@@ -34,7 +35,6 @@
 
 ### Pull Requests:
  * [cryptic-game/cryptic-user](https://github.com/cryptic-game/cryptic-user/pulls?q=author%3AFoseFx)
- * [helpwave/rest-api](https://github.com/helpwave/rest-api/pulls?q=author%3AFoseFx)
  * [shaftoe/probot](https://github.com/shaftoe/probot/pulls?q=author%3AFoseFx)
  * [twilio-labs/open-pixel-art](https://github.com/twilio-labs/open-pixel-art/pulls?q=author%3AFoseFx)
 
