@@ -35,6 +35,7 @@
 
 ### Pull Requests:
  * [cryptic-game/cryptic-user](https://github.com/cryptic-game/cryptic-user/pulls?q=author%3AFoseFx)
+ * [helpwave/helpwave](https://github.com/helpwave/helpwave/pulls?q=author%3AFoseFx)
  * [shaftoe/probot](https://github.com/shaftoe/probot/pulls?q=author%3AFoseFx)
  * [twilio-labs/open-pixel-art](https://github.com/twilio-labs/open-pixel-art/pulls?q=author%3AFoseFx)
 
