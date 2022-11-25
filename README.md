@@ -36,6 +36,7 @@
 
 ### Pull Requests:
  * [cryptic-game/cryptic-user](https://github.com/cryptic-game/cryptic-user/pulls?q=author%3AFoseFx)
+ * [dafny-lang/dafny](https://github.com/dafny-lang/dafny/pulls?q=author%3AFoseFx)
  * [shaftoe/probot](https://github.com/shaftoe/probot/pulls?q=author%3AFoseFx)
  * [twilio-labs/open-pixel-art](https://github.com/twilio-labs/open-pixel-art/pulls?q=author%3AFoseFx)
 
