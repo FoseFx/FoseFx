@@ -37,6 +37,7 @@
 ### Pull Requests:
  * [cryptic-game/cryptic-user](https://github.com/cryptic-game/cryptic-user/pulls?q=author%3AFoseFx)
  * [dafny-lang/dafny](https://github.com/dafny-lang/dafny/pulls?q=author%3AFoseFx)
+ * [go-gorm/playground](https://github.com/go-gorm/playground/pulls?q=author%3AFoseFx)
  * [shaftoe/probot](https://github.com/shaftoe/probot/pulls?q=author%3AFoseFx)
  * [twilio-labs/open-pixel-art](https://github.com/twilio-labs/open-pixel-art/pulls?q=author%3AFoseFx)
 
@@ -44,6 +45,7 @@
  * [Just-another-Muensterhack/helpwave-backend](https://github.com/Just-another-Muensterhack/helpwave-backend/issues?q=is%3Aissue+author%3AFoseFx)
  * [LoyieKing/Smalise](https://github.com/LoyieKing/Smalise/issues?q=is%3Aissue+author%3AFoseFx)
  * [ONLYOFFICE/CommunityServer](https://github.com/ONLYOFFICE/CommunityServer/issues?q=is%3Aissue+author%3AFoseFx)
+ * [go-gorm/gorm](https://github.com/go-gorm/gorm/issues?q=is%3Aissue+author%3AFoseFx)
  * [helm/helm](https://github.com/helm/helm/issues?q=is%3Aissue+author%3AFoseFx)
  * [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool/issues?q=is%3Aissue+author%3AFoseFx)
  * [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill/issues?q=is%3Aissue+author%3AFoseFx)
