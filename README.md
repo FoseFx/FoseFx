@@ -10,8 +10,6 @@
 
 ### Commits:
  * [AndreAle94/moneywallet](https://github.com/AndreAle94/moneywallet/commits?author=FoseFx)
- * [Just-another-Muensterhack/helpwave-frontend](https://github.com/Just-another-Muensterhack/helpwave-frontend/commits?author=FoseFx)
- * [Just-another-Muensterhack/helpwave-static](https://github.com/Just-another-Muensterhack/helpwave-static/commits?author=FoseFx)
  * [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock/commits?author=FoseFx)
  * [ajayyy/SponsorBlockServer](https://github.com/ajayyy/SponsorBlockServer/commits?author=FoseFx)
  * [bttv-android/bttv](https://github.com/bttv-android/bttv/commits?author=FoseFx)
@@ -32,27 +30,21 @@
  * [tmijs/tmi.js](https://github.com/tmijs/tmi.js/commits?author=FoseFx)
  * [tokio-rs/tracing](https://github.com/tokio-rs/tracing/commits?author=FoseFx)
  * [traefik/traefik](https://github.com/traefik/traefik/commits?author=FoseFx)
- * [use-to/buzzword-list](https://github.com/use-to/buzzword-list/commits?author=FoseFx)
  * [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org/commits?author=FoseFx)
 
 ### Pull Requests:
- * [cryptic-game/cryptic-user](https://github.com/cryptic-game/cryptic-user/pulls?q=author%3AFoseFx)
  * [dafny-lang/dafny](https://github.com/dafny-lang/dafny/pulls?q=author%3AFoseFx)
  * [go-gorm/playground](https://github.com/go-gorm/playground/pulls?q=author%3AFoseFx)
- * [shaftoe/probot](https://github.com/shaftoe/probot/pulls?q=author%3AFoseFx)
- * [twilio-labs/open-pixel-art](https://github.com/twilio-labs/open-pixel-art/pulls?q=author%3AFoseFx)
 
 ### Issues:
- * [Just-another-Muensterhack/helpwave-backend](https://github.com/Just-another-Muensterhack/helpwave-backend/issues?q=is%3Aissue+author%3AFoseFx)
  * [LoyieKing/Smalise](https://github.com/LoyieKing/Smalise/issues?q=is%3Aissue+author%3AFoseFx)
- * [ONLYOFFICE/CommunityServer](https://github.com/ONLYOFFICE/CommunityServer/issues?q=is%3Aissue+author%3AFoseFx)
  * [go-gorm/gorm](https://github.com/go-gorm/gorm/issues?q=is%3Aissue+author%3AFoseFx)
- * [helm/helm](https://github.com/helm/helm/issues?q=is%3Aissue+author%3AFoseFx)
  * [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool/issues?q=is%3Aissue+author%3AFoseFx)
  * [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill/issues?q=is%3Aissue+author%3AFoseFx)
  * [tensorflow/tfjs](https://github.com/tensorflow/tfjs/issues?q=is%3Aissue+author%3AFoseFx)
 
 ### Other:
+ * [Just-another-Muensterhack/helpwave-frontend](https://github.com/Just-another-Muensterhack/helpwave-frontend/issues?q=involves%3AFoseFx)
  * [angular/angular](https://github.com/angular/angular/issues?q=involves%3AFoseFx)
  * [nextcloud/twofactor_u2f](https://github.com/nextcloud/twofactor_u2f/issues?q=involves%3AFoseFx)
  * [pop-os/gtk-theme](https://github.com/pop-os/gtk-theme/issues?q=involves%3AFoseFx)
