@@ -18,6 +18,7 @@
  * [bttv-android/version-watchdog](https://github.com/bttv-android/version-watchdog/commits?author=FoseFx)
  * [cryptic-game/frontend](https://github.com/cryptic-game/frontend/commits?author=FoseFx)
  * [helpwave/helpwave](https://github.com/helpwave/helpwave/commits?author=FoseFx)
+ * [helpwave/pg-fingerprint-action](https://github.com/helpwave/pg-fingerprint-action/commits?author=FoseFx)
  * [helpwave/rest-api](https://github.com/helpwave/rest-api/commits?author=FoseFx)
  * [helpwave/services](https://github.com/helpwave/services/commits?author=FoseFx)
  * [probot/create-probot-app](https://github.com/probot/create-probot-app/commits?author=FoseFx)
