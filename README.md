@@ -17,6 +17,7 @@
  * [bttv-android/ubi](https://github.com/bttv-android/ubi/commits?author=FoseFx)
  * [bttv-android/version-watchdog](https://github.com/bttv-android/version-watchdog/commits?author=FoseFx)
  * [cryptic-game/frontend](https://github.com/cryptic-game/frontend/commits?author=FoseFx)
+ * [helpwave/buf-resource-proxy](https://github.com/helpwave/buf-resource-proxy/commits?author=FoseFx)
  * [helpwave/helpwave](https://github.com/helpwave/helpwave/commits?author=FoseFx)
  * [helpwave/pg-fingerprint-action](https://github.com/helpwave/pg-fingerprint-action/commits?author=FoseFx)
  * [helpwave/rest-api](https://github.com/helpwave/rest-api/commits?author=FoseFx)
