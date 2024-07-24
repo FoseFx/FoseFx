@@ -41,6 +41,7 @@
 
 ### Issues:
  * [LoyieKing/Smalise](https://github.com/LoyieKing/Smalise/issues?q=is%3Aissue+author%3AFoseFx)
+ * [apache/apisix](https://github.com/apache/apisix/issues?q=is%3Aissue+author%3AFoseFx)
  * [go-gorm/gorm](https://github.com/go-gorm/gorm/issues?q=is%3Aissue+author%3AFoseFx)
  * [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool/issues?q=is%3Aissue+author%3AFoseFx)
  * [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill/issues?q=is%3Aissue+author%3AFoseFx)
