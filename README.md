@@ -38,6 +38,7 @@
 ### Pull Requests:
  * [dafny-lang/dafny](https://github.com/dafny-lang/dafny/pulls?q=author%3AFoseFx)
  * [go-gorm/playground](https://github.com/go-gorm/playground/pulls?q=author%3AFoseFx)
+ * [secshellnet/nixos](https://github.com/secshellnet/nixos/pulls?q=author%3AFoseFx)
 
 ### Issues:
  * [LoyieKing/Smalise](https://github.com/LoyieKing/Smalise/issues?q=is%3Aissue+author%3AFoseFx)
