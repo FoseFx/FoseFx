@@ -28,6 +28,7 @@
  * [probot/probot](https://github.com/probot/probot/commits?author=FoseFx)
  * [rust-lang/rust](https://github.com/rust-lang/rust/commits?author=FoseFx)
  * [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy/commits?author=FoseFx)
+ * [secshellnet/nixos](https://github.com/secshellnet/nixos/commits?author=FoseFx)
  * [shalvah/twittersignin](https://github.com/shalvah/twittersignin/commits?author=FoseFx)
  * [steebchen/flutter](https://github.com/steebchen/flutter/commits?author=FoseFx)
  * [tmijs/tmi.js](https://github.com/tmijs/tmi.js/commits?author=FoseFx)
@@ -38,7 +39,6 @@
 ### Pull Requests:
  * [dafny-lang/dafny](https://github.com/dafny-lang/dafny/pulls?q=author%3AFoseFx)
  * [go-gorm/playground](https://github.com/go-gorm/playground/pulls?q=author%3AFoseFx)
- * [secshellnet/nixos](https://github.com/secshellnet/nixos/pulls?q=author%3AFoseFx)
 
 ### Issues:
  * [LoyieKing/Smalise](https://github.com/LoyieKing/Smalise/issues?q=is%3Aissue+author%3AFoseFx)
