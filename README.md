@@ -52,6 +52,7 @@
  * [apache/apisix](https://github.com/apache/apisix/issues?q=is%3Aissue+author%3AFoseFx)
  * [go-gorm/gorm](https://github.com/go-gorm/gorm/issues?q=is%3Aissue+author%3AFoseFx)
  * [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool/issues?q=is%3Aissue+author%3AFoseFx)
+ * [kitschpatrol/yanki-obsidian](https://github.com/kitschpatrol/yanki-obsidian/issues?q=is%3Aissue+author%3AFoseFx)
  * [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill/issues?q=is%3Aissue+author%3AFoseFx)
  * [tensorflow/tfjs](https://github.com/tensorflow/tfjs/issues?q=is%3Aissue+author%3AFoseFx)
 
