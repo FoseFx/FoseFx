@@ -44,6 +44,7 @@
  * [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org/commits?author=FoseFx)
 
 ### Pull Requests:
+ * [apache/apisix-helm-chart](https://github.com/apache/apisix-helm-chart/pulls?q=author%3AFoseFx)
  * [dafny-lang/dafny](https://github.com/dafny-lang/dafny/pulls?q=author%3AFoseFx)
  * [go-gorm/playground](https://github.com/go-gorm/playground/pulls?q=author%3AFoseFx)
 
