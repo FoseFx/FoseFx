@@ -35,7 +35,6 @@
  * [probot/probot](https://github.com/probot/probot/commits?author=FoseFx)
  * [rust-lang/rust](https://github.com/rust-lang/rust/commits?author=FoseFx)
  * [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy/commits?author=FoseFx)
- * [secshellnet/nixos](https://github.com/secshellnet/nixos/commits?author=FoseFx)
  * [shalvah/twittersignin](https://github.com/shalvah/twittersignin/commits?author=FoseFx)
  * [steebchen/flutter](https://github.com/steebchen/flutter/commits?author=FoseFx)
  * [tmijs/tmi.js](https://github.com/tmijs/tmi.js/commits?author=FoseFx)
